@@ -50,10 +50,10 @@ h1 {
 	background: $linkedin-accent-blue;
 	border-radius: 0.3125rem;
 	@include tablet {
-	width: 320px;
+	width: 20rem;
 	}
 	@include desktop {
-		width: 320px;
+		width: 20rem;
 	}
 	&__img {
 		text-align: center;
